@@ -4,9 +4,9 @@
 |:warning: **Do not plagiarize my work or you will be graded ZERO !**|
 |-|
 
-Source Code: **P-language**
-Target Code: **RISC-V assembly**
-Developed by using **flex** and **bison**
+Source Code: **P-language**  
+Target Code: **RISC-V assembly**  
+Developed by using **flex** and **bison**  
 
 
 * hw1-Lexical Definition (flex)
