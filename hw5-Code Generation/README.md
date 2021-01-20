@@ -2,6 +2,9 @@
 
 **Introduction to Compiler Design by Prof. Yi-Ping You**
 
+|NOTICE: I have only finished the first 99pts parts|
+|-|
+
 Due Date: **23:59, January 17, 2021**
 
 Late homework deadline: **23:59, January 19, 2021**
